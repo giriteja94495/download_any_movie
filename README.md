@@ -19,5 +19,5 @@ Let's run the python script now! Run the script using the command
 
 
 
-                                                No CopyRights Reserved , you can use this code anywhere,anytime.
-                                                                      Happy Coding!
+             No CopyRights Reserved , you can use this code anywhere,anytime.
+                              Happy Coding!
